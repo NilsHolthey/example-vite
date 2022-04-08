@@ -6,3 +6,22 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+
+.profile {
+  border-radius: 50%;
+  border: solid black;
+}
+
+img {
+  width: 100px;
+}
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  width: 250px;
+  text-align: center;
+}
